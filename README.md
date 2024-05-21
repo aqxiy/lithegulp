@@ -21,6 +21,7 @@ A technique that minorly improves upon default pill behaviour.
 6. Place cup on tongue and sip & swallow. Maybe a little more than needed to get pill down.
 
 ++ Wait 5-7 seconds between same pill or around 20 between different pills {swallow to mouth open}
+-- best with standard 8 oz glass cup featuring handle
 
 <pre>
 # lithegulp
