@@ -1,6 +1,6 @@
 # lithegulp
 
-A technique that minorly improves upon default pill behaviour. 
+A technique that minorly improves upon default pill behaviour. Interfaces with nausea response. 
 
 1. Open mouth, relatively wide. Insert pill on tongue. Place cup on tongue and sip & swallow. Maybe a little more than needed to get pill down.
 
