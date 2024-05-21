@@ -25,6 +25,7 @@ A technique that minorly improves upon default pill behaviour.
 -- best with standard 8 oz glass cup featuring handle
 
 <pre>
+  
 # lithegulp
 
 A technique that minorly improves upon default pill behaviour. 
@@ -42,5 +43,6 @@ Roughly a little more than needed to get pill down. Mouth comfortably open with 
 5. Place cup on tongue and sip & swallow. Maybe a little more than needed to get pill down.
 
 ++ Wait 5-7 seconds between same pill or around 20 between different pills {swallow to mouth open}
-
+-- best with standard 8 oz glass cup featuring handle
+  
 </pre>
