@@ -20,6 +20,10 @@ A technique that minorly improves upon default pill behaviour. Interfaces with n
 
 6. Place cup on tongue and sip & swallow. Maybe a little more than needed to get pill down.
 
+   
+For best results, mouth shall remain roughly but not overly tightly closed 4 seconds post last swallow, through the final swallow.
+
+
 ++ Wait 9 - 14 seconds between pills {swallow to mouth open}
 
 -- best with narrowish wine glass
@@ -43,6 +47,10 @@ then swallow.
 --   Wait 5 seconds from last swallow to next mouth open
 5. Place cup on tongue and sip & swallow. Maybe a little more than needed to get pill down.
 
+
+For best results, mouth shall remain roughly but not overly tightly closed 4 seconds post last swallow, through the final swallow.
+
+  
 ++ Wait 9 - 14 seconds between pills {swallow to mouth open}
 -- best with narrowish wine glass
   
