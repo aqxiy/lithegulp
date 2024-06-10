@@ -20,9 +20,9 @@ A technique that minorly improves upon default pill behaviour. Interfaces with n
 
 6. Place cup on tongue and sip & swallow. Maybe a little more than needed to get pill down.
 
-++ Wait 5-7 seconds between same pill or around 20 between different pills {swallow to mouth open}
+++ Wait 9 - 14 seconds between pills {swallow to mouth open}
 
--- best with standard 8 oz glass cup featuring handle
+-- best with narrowish wine glass
 
 <pre>
   
@@ -43,7 +43,7 @@ then swallow.
 --   Wait 5 seconds from last swallow to next mouth open
 5. Place cup on tongue and sip & swallow. Maybe a little more than needed to get pill down.
 
-++ Wait 5-7 seconds between same pill or around 20 between different pills {swallow to mouth open}
--- best with standard 8 oz glass cup featuring handle
+++ Wait 9 - 14 seconds between pills {swallow to mouth open}
+-- best with narrowish wine glass
   
 </pre>
