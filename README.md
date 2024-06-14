@@ -28,6 +28,8 @@ For best results, mouth shall remain roughly but not overly tightly closed 4 sec
 
 -- best with narrowish wine glass
 
+20 min +/- 30 seconds to reset as in to allow further dosing if timing violated by at least 2 seconds.
+
 <pre>
   
 # lithegulp
@@ -53,5 +55,7 @@ For best results, mouth shall remain roughly but not overly tightly closed 4 sec
   
 ++ Wait 9 - 14 seconds between pills {swallow to mouth open}
 -- best with narrowish wine glass
-  
+
+20 min +/- 30 seconds to reset as in to allow further dosing if timing violated by at least 2 seconds.
+
 </pre>
