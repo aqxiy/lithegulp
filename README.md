@@ -32,7 +32,7 @@ For best results, mouth shall remain roughly but not overly tightly closed 4 sec
 
 
 
-### Additional Dosing Instructions
+## Additional Dosing Instructions
 
 Drink some, lithegulp some, drink some; roughly 5-10 sec separation
 
