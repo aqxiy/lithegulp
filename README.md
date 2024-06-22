@@ -30,6 +30,14 @@ For best results, mouth shall remain roughly but not overly tightly closed 4 sec
 
 20 min +/- 30 seconds to reset as in to allow further dosing if timing violated by at least 2 seconds.
 
+
+
+### Additional Dosing Instructions
+
+Drink some, lithegulp some, drink some; roughly 5-10 sec separation
+
+
+
 <pre>
   
 # lithegulp
